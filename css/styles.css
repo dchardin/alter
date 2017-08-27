@@ -1,5 +1,5 @@
 body {
-  background-color: #DDDDDD;
+  background-color: #17A4B7;
   color: #232323;
 }
 
@@ -22,10 +22,10 @@ body {
 textarea {
   font-family: "Anonymous Pro";
   font-size: 2rem;
-  background: #DDDDDD;
+  background: #17A4B7;
   color: #232323;
   border: 3px solid #232323;
-  border-radius: 0;
+  border-radius: 2;
   resize: none;
   overflow: hidden;
   min-height: 10rem;
@@ -38,9 +38,9 @@ textarea:focus {
 }
 
 button {
-  border-radius: 0;
+  border-radius: 3;
   margin-left: 0;
-  background: #DDDDDD;
+  background: #17A4B7;
   border: 3px solid #131313;
   color: #131313;
   font-weight: 700;
